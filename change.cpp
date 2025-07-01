@@ -3,4 +3,8 @@ using namespace std;
 
 int main(){
     cout<<"Hello Version 13"<<endl;
+    int a ,b;
+    cout<<"values of a & b : "<<endl;
+    cin>>a>>b;
+    cout<<a<<b;
 }
