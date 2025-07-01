@@ -7,4 +7,5 @@ int main(){
     cout<<"values of a & b : "<<endl;
     cin>>a>>b;
     cout<<a<<b;
+    cout<<a<<endl;
 }
