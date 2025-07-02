@@ -8,4 +8,5 @@ int main(){
     cin>>a>>b;
     cout<<a<<b;
     cout<<a<<endl;
+    cout<<"Adding a SSH key"<<endl;
 }
